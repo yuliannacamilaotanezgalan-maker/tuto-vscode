@@ -1,0 +1,6 @@
+Git es un software de control de versiones distribuido.
+ El control de versiones permite guardar los cambios a lo largo del tiempo sin sobrescribir las versiones anteriores.
+ Al ser distribuido, cada desarrollador que trabaja con un repositorio Git tiene una copia completa de ese repositorio:
+cada commit, cada rama, cada archivo.Si estás acostumbrado a trabajar con sistemas de control de versiones centralizados,
+¡esto supone una gran diferencia!
+ Git puede gestionar conflictos de fusión, lo que significa que varias personas pueden trabajar en el mismo archivo simultáneamente . 
